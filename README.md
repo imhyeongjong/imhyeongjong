@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Im Hyeong Jong,a BE developer</h1>
+<h1 align="center">Hi 👋, I'm Hyeong Jong,a BE developer</h1>
 <h3 align="center">A BackEnd developer from Korea</h3>
 
 - 📝 I regularly write articles on [https://velog.io/@ap3878/posts](https://velog.io/@ap3878/posts)
@@ -21,4 +21,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imhyeongjong&show_icons=true&locale=en" alt="imhyeongjong" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imhyeongjong&" alt="imhyeongjong" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=imhyeongjong&" alt="imhyeongjong" /></p>

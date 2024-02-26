@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Hyeong Jong,a BE developer</h1>
 <h3 align="center">A BackEnd developer from Korea</h3>
 
@@ -8,6 +6,7 @@
 - 💬 Ask me about **JAVA,JSP,SPRINGBOOT**
 
 - 📫 How to reach me **ap3878@naver.com**
+  <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=imhyeongjong&" alt="imhyeongjong" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,5 +19,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imhyeongjong&show_icons=true&locale=en&layout=compact" alt="imhyeongjong" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imhyeongjong&show_icons=true&locale=en" alt="imhyeongjong" /></p>
-
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=imhyeongjong&" alt="imhyeongjong" /></p>

@@ -31,8 +31,8 @@
 <a href="https://velog.io/@ap3878/posts" target="_blank"><img align="center" height="40" width="100" src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
 <a href="https://blog.naver.com/jjongbro_" target="_blank"><img align="center" height="40" width="100" src="https://img.shields.io/badge/blog-03C75A?style=flat-square&logo=naver&logoColor=white"/></a> 
 </p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=imhyeongjong&show_icons=true&theme=radical" alt="imhyeongjong" width="300" height="1000" />
+<p align="center" height="300">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=imhyeongjong&show_icons=true&theme=radical" alt="imhyeongjong" width="300" />
   <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ap3878" alt="imhyeongjong" width="300" height="150" />
 </p>
 

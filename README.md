@@ -1,13 +1,6 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Imhyeongjong&fontSize=90" />
 </div>
-<h1 align="center">✨SNS✨</h1>
-<hr>
-<p align="center">
-<a href="http://instagram.com/jjong._.bro" target="blank"><img align="center" src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" height="40" width="100" /></a>
-<a href="https://velog.io/@ap3878/posts" target="_blank"><img align="center" height="40" width="100" src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
-<a href="https://blog.naver.com/jjongbro_" target="_blank"><img align="center" height="40" width="100" src="https://img.shields.io/badge/blog-03C75A?style=flat-square&logo=naver&logoColor=white"/></a> 
-</p>
 <h1 align="center">📚Tech Stack📚</h1>
 <hr>
 <div align=center> 
@@ -30,7 +23,16 @@
   <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </div>
- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=imhyeongjong&show_icons=true&locale=en&layout=compact" alt="imhyeongjong" width="400" height="300" /></p>
+ <p align="center">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=imhyeongjong&show_icons=true&locale=en&layout=compact" alt="imhyeongjong" width="400" height="300" />
+ </p>
+ <h1 align="center">✨SNS✨</h1>
+<hr>
+<p align="center">
+<a href="http://instagram.com/jjong._.bro" target="blank"><img align="center" src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" height="40" width="100" /></a>
+<a href="https://velog.io/@ap3878/posts" target="_blank"><img align="center" height="40" width="100" src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
+<a href="https://blog.naver.com/jjongbro_" target="_blank"><img align="center" height="40" width="100" src="https://img.shields.io/badge/blog-03C75A?style=flat-square&logo=naver&logoColor=white"/></a> 
+</p>
 <h1 align="center">🎈It's me🎈</h1>
 <hr>
 <p align="center" height="300">

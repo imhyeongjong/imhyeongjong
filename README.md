@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 <div align="center">
 <img src="https://github.com/imhyeongjong/imhyeongjong/assets/85678935/f652a66d-8787-409b-ba42-fbee672e1b45"/>
 </div>

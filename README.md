@@ -22,6 +22,7 @@
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
   <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imhyeongjong&show_icons=true&locale=en&layout=compact" alt="imhyeongjong" width="400" height="300" /></p>
 </div>
 <hr>
 <h3 align="center">🎈me🎈</h3>
@@ -29,10 +30,8 @@
 <a href="http://instagram.com/jjong._.bro" target="blank"><img align="center" src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" height="50" width="80" /></a>
 <a href="https://velog.io/@ap3878/posts" target="_blank"><img align="center" height="50" width="80" src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imhyeongjong&show_icons=true&locale=en&layout=compact" alt="imhyeongjong" width="400" height="300" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imhyeongjong&show_icons=true&locale=en" alt="imhyeongjong" width="400" height="260" /></p>
+<hr>
+
+
 

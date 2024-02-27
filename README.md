@@ -3,8 +3,15 @@
 </div>
 <hr>
 <h3 align="center">📚Tech Stack📚</h3>
-<img src="http://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/><img src="https://img.shields.io/badge/python-%23F8DC75.svg?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/jsp-%23ED8B00.svg?style=for-the-badge&logo=jsp&logoColor=white"/><img src="https://img.shields.io/badge/SpringBoot-%0078d7.svg?style=for-the-badge&logo=SpringBoot&logoColor=white"/><img src="https://img.shields.io/badge/DataBase-%23121011.svg?style=for-the-badge&logo=DataBase&logoColor=white"/><img src="https://img.shields.io/badge/Oracle-%23000000.svg?style=for-the-badge&logo=Oracle&logoColor=white"/>
+<a><img src="http://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/python-%23F8DC75.svg?style=for-the-badge&logo=python&logoColor=white"/></a> 
+<a><img src="https://img.shields.io/badge/jsp-%23ED8B00.svg?style=for-the-badge&logo=jsp&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/SpringBoot-%83B81A.svg?style=for-the-badge&logo=SpringBoot&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/DataBase-%23121011.svg?style=for-the-badge&logo=DataBase&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Oracle-%23000000.svg?style=for-the-badge&logo=Oracle&logoColor=white"/></a>
+
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">

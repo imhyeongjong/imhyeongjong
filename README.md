@@ -1,5 +1,4 @@
 <div align="center">
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkim-soohyeon&count_bg=%23FFDAC7&title_bg=%23FFADAD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Imhyeongjong&fontSize=90" />
 </div>
 <h1 align="center">📚Tech Stack📚</h1>
@@ -35,7 +34,7 @@
 <p align="center">&nbsp;<img align="center" src="" alt="imhyeongjong" width="400" height="260" /></p>
 
 ![Imhyeongjong's GitHub stats](https://github-readme-stats.vercel.app/api?username=imhyeongjong&show_icons=true&locale=en)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlatngus1691)](https://solved.ac/ap3878/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ap3878)](https://solved.ac/ap3878/)
 
 
 

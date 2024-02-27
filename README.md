@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=200&section=header&text=Imhyeongjong&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=purple&height=200&section=header&text=Imhyeongjong&fontSize=90" />
 </div>
 <h1 align="center">📚Tech Stack📚</h1>
 <hr>
@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </div>
  <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=imhyeongjong&show_icons=true&locale=en&layout=compact" alt="imhyeongjong" width="400" height="300" /></p>
-<h1 align="center">🎈me🎈</h1>
+<h1 align="center">🎈It's me🎈</h1>
 <hr>
 <p align="center">
 <a href="http://instagram.com/jjong._.bro" target="blank"><img align="center" src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" height="40" width="100" /></a>

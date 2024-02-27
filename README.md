@@ -27,8 +27,9 @@
 <h3 align="center">🎈me🎈</h3>
 <hr>
 <p align="center">
-<a href="http://instagram.com/jjong._.bro" target="blank"><img align="center" src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" height="50" width="80" /></a>
-<a href="https://velog.io/@ap3878/posts" target="_blank"><img align="center" height="50" width="80" src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
+<a href="http://instagram.com/jjong._.bro" target="blank"><img align="center" src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" height="40" width="120" /></a>
+<a href="https://velog.io/@ap3878/posts" target="_blank"><img align="center" height="40" width="120" src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
+<a href="https://blog.naver.com/jjongbro_" target="_blank"><img align="center" height="40" width="120" src="https://img.shields.io/badge/blog-03C75A?style=flat-square&logo=blog&logoColor=white"/></a> 
 </p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imhyeongjong&show_icons=true&locale=en" alt="imhyeongjong" width="400" height="260" /></p>
 

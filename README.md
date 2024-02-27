@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=venom&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=200&section=header&text=Imhyeongjong&fontSize=90" />
 </div>
 <h1 align="center">📚Tech Stack📚</h1>
 <hr>

@@ -2,8 +2,6 @@
 <img src="https://github.com/imhyeongjong/imhyeongjong/assets/85678935/ad618b6d-1e23-473a-b1d6-2f37f686c51a" height="350" width="900" />
 </div>
 
-<img width="100%" height="800" src="https://i.pinimg.com/564x/23/c3/69/23c369f433d767657cab69984de4a1af.jpg"/>
-
 - 📝 I regularly write articles on [https://velog.io/@ap3878/posts](https://velog.io/@ap3878/posts)
 
 - 💬 Ask me about **JAVA,JSP,SPRINGBOOT**

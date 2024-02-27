@@ -2,7 +2,7 @@
 <img src="https://github.com/imhyeongjong/imhyeongjong/assets/85678935/ad618b6d-1e23-473a-b1d6-2f37f686c51a" height="400" width="800" />
 </div>
 
-<img width="100%" height="600" src="https://i.pinimg.com/564x/ef/7f/12/ef7f12b3b36f9c28fb0f2f9f538c1629.jpg"/>
+<img width="100%" height="600" src="https://i.pinimg.com/564x/e7/8a/29/e78a29c0540a17f52fe02753c80194ef.jpg"/>
 
 - 📝 I regularly write articles on [https://velog.io/@ap3878/posts](https://velog.io/@ap3878/posts)
 

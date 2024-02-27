@@ -33,7 +33,7 @@
 </p>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=imhyeongjong&show_icons=true&theme=radical" alt="imhyeongjong" width="300" height="300" />
-  <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ap3878" alt="imhyeongjong" width="300" height="300" />
+  <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ap3878" alt="imhyeongjong" width="300" height="100" />
 </p>
 
 

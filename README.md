@@ -2,6 +2,8 @@
 <img src="https://github.com/imhyeongjong/imhyeongjong/assets/85678935/ad618b6d-1e23-473a-b1d6-2f37f686c51a" height="400" width="800" />
 </div>
 
+<img width="100%" src="![Uploading KakaoTalk_20240227_103807451_03.jpg…]()"/>
+
 - 📝 I regularly write articles on [https://velog.io/@ap3878/posts](https://velog.io/@ap3878/posts)
 
 - 💬 Ask me about **JAVA,JSP,SPRINGBOOT**

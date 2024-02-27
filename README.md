@@ -1,5 +1,5 @@
 <div align="center">
-<img src="C:\Users\SMHRD\Downloads\glow (2).gif height="300"/>
+<img src="https://github.com/imhyeongjong/imhyeongjong/assets/85678935/ad618b6d-1e23-473a-b1d6-2f37f686c51a" height="400" width="300" />
 </div>
 <h3 align="center">A BackEnd developer from Korea</h3>
 

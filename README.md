@@ -22,8 +22,8 @@
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
   <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imhyeongjong&show_icons=true&locale=en&layout=compact" alt="imhyeongjong" width="400" height="300" /></p>
 </div>
+ <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=imhyeongjong&show_icons=true&locale=en&layout=compact" alt="imhyeongjong" width="400" height="300" /></p>
 <hr>
 <h3 align="center">🎈me🎈</h3>
 <p align="center">
@@ -31,7 +31,7 @@
 <a href="https://velog.io/@ap3878/posts" target="_blank"><img align="center" height="50" width="80" src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
 </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imhyeongjong&show_icons=true&locale=en" alt="imhyeongjong" width="400" height="260" /></p>
-<hr>
+
 
 
 

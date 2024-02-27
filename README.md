@@ -26,7 +26,7 @@
 </div>
 <h1 align="center">✨SNS✨</h1>
 <p align="center">
-<a href="http://instagram.com/jjong._.bro" target="blank"><img align="center" src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" height="30" width="100" /></a>
+<a href="http://instagram.com/jjong._.bro" target="blank"><img align="center" src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" height="40" width="100" /></a>
 <a href="https://velog.io/@ap3878/posts" target="_blank"><img align="center" height="40" width="100" src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
 <a href="https://blog.naver.com/jjongbro_" target="_blank"><img align="center" height="40" width="100" src="https://img.shields.io/badge/blog-03C75A?style=flat-square&logo=naver&logoColor=white"/></a> 
 </p>

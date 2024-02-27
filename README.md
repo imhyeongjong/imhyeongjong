@@ -32,7 +32,7 @@
 <a href="https://blog.naver.com/jjongbro_" target="_blank"><img align="center" height="40" width="100" src="https://img.shields.io/badge/blog-03C75A?style=flat-square&logo=naver&logoColor=white"/></a> 
 </p>
 ![Imhyeongjong's GitHub stats](https://github-readme-stats.vercel.app/api?username=imhyeongjong&show_icons=true&locale=en)
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ap3878)](https://solved.ac/ap3878/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ap3878)](https://solved.ac/ap3878/)
 
 
 

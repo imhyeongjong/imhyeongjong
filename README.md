@@ -1,4 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+<div align="center">
+![glow](https://github.com/imhyeongjong/imhyeongjong/assets/85678935/f652a66d-8787-409b-ba42-fbee672e1b45)
+</div>
 <h3 align="center">A BackEnd developer from Korea</h3>
 
 - 📝 I regularly write articles on [https://velog.io/@ap3878/posts](https://velog.io/@ap3878/posts)

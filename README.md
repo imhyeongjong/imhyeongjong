@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/imhyeongjong/imhyeongjong/assets/85678935/ad618b6d-1e23-473a-b1d6-2f37f686c51a" height="300" width="800" />
+<img src="https://github.com/imhyeongjong/imhyeongjong/assets/85678935/ad618b6d-1e23-473a-b1d6-2f37f686c51a" height="300" width="900" />
 </div>
 
 <img width="100%" height="1000" src="https://i.pinimg.com/564x/73/b6/26/73b62685862fad394212f7e1b0d3b8af.jpg"/>

@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hyeong Jong, a BE developer</h1>
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 <h3 align="center">A BackEnd developer from Korea</h3>
 
 - 📝 I regularly write articles on [https://velog.io/@ap3878/posts](https://velog.io/@ap3878/posts)

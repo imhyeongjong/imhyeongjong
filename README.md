@@ -1,10 +1,6 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Imhyeongjong&fontSize=90" />
 </div>
-<p align="center" height="300">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=imhyeongjong&show_icons=true&theme=radical" alt="imhyeongjong" width="300" />
-  <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ap3878" alt="imhyeongjong" width="300"  />
-</p>
 <h1 align="center">📚Skills📚</h1>
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=black">
@@ -24,6 +20,11 @@
   <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </div>
+<h1 align="center">🎈It's me🎈</h1>
+<p align="center" height="300">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=imhyeongjong&show_icons=true&theme=radical" alt="imhyeongjong" width="300" />
+  <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ap3878" alt="imhyeongjong" width="300"  />
+</p>
 <h1 align="center">✨SNS✨</h1>
 <p align="center">
 <a href="http://instagram.com/jjong._.bro" target="blank"><img align="center" src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" height="40" width="100" /></a>

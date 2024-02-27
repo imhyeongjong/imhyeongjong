@@ -2,11 +2,10 @@
 <img src="https://github.com/imhyeongjong/imhyeongjong/assets/85678935/ad618b6d-1e23-473a-b1d6-2f37f686c51a" height="350" width="900" />
 </div>
 
-- 📝 I regularly write articles on [https://velog.io/@ap3878/posts](https://velog.io/@ap3878/posts)
+<hr>
 
 - 💬 Ask me about **JAVA,JSP,SPRINGBOOT**
 
-- 📫 How to reach me **ap3878@naver.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

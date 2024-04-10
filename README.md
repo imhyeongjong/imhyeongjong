@@ -30,6 +30,7 @@
 <a href="https://blog.naver.com/jjongbro_" target="_blank"><img align="center" height="40" width="100" src="https://img.shields.io/badge/blog-03C75A?style=flat-square&logo=naver&logoColor=white"/></a> 
 </p>
 
+감사합니다.
 
 
 

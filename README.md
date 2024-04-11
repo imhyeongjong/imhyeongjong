@@ -1,6 +1,5 @@
-![header](https://capsule-render.vercel.app/api?
-type=rounded&color=timeGradient&text=Welcome%20to%Imhyeongjong's%20GitHub%20👋
-&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
+![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+bi-sz's+GitHub!👋)](https://git.io/typing-svg)
 <h1 align="center">🎈It's me🎈</h1>
 <p align="center" height="300">
   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username={imhyeongjong}&show_icons=true&theme={theme})](https://github.com/{imhyeongjong}/github-readme-stats)

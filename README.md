@@ -3,8 +3,7 @@
 </div>
 <h1 align="center">🎈It's me🎈</h1>
 <p align="center" height="300">
-  [![imhyeongjong's GitHub stats](https://github-readme-stats.vercel.app/api?username=imhyeongjong)&hide=stars,contribs](https://github.com/imhyeongjong/github-readme-stats)
-  
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=imhyeongjong&show_icons=true&theme=merko"alt="imhyeongjong" width="300"&hide=stars,contribs  />
 </p>
 <h1 align="center">📚Skills📚</h1>
 <div align=center> 

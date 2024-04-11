@@ -1,6 +1,6 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Imhyeongjong&fontSize=90" />
-</div>
+![header](https://capsule-render.vercel.app/api?
+type=rounded&color=timeGradient&text=Welcome%20to%Imhyeongjong's%20GitHub%20👋
+&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
 <h1 align="center">🎈It's me🎈</h1>
 <p align="center" height="300">
   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username={imhyeongjong}&show_icons=true&theme={theme})](https://github.com/{imhyeongjong}/github-readme-stats)

@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+hyeong-jong's+GitHub!👋)](https://git.io/typing-svg)
 <h1 align="center">🎈It's me🎈</h1>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=imhyeongjong&show_icons=true&theme=merko"alt="imhyeongjong" width="300"/>
+github-readme-stats.vercel.app/api?username={imhyeongjong}&show_icons=true
 <h1 align="center">📚Skills📚</h1>
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=black">

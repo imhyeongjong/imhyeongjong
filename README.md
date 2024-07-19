@@ -3,7 +3,6 @@
 <h1 align="center">🎈It's me🎈</h1>
 <p align="center"> 
   	<img src="https://github-readme-stats.vercel.app/api?username=imhyeongjong&show_icons=true&theme=graywhite">
-    <img src="https://raw.githubusercontent.com/devpla/github-stats/output/generated/languages.svg" width="51%" style="max-width: 100%;">
 </p>
 <h1 align="center">📚Skills📚</h1>
 <div align=center> 

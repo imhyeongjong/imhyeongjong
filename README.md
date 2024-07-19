@@ -3,7 +3,7 @@
 <h1 align="center">🎈It's me🎈</h1>
 <p align="center"> 
   	<img src="https://github-readme-stats.vercel.app/api?username=imhyeongjong&show_icons=true&theme=graywhite">
-    [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=imhyeongjong)](https://github.com/imhyeongjong/velog-readme-stats)
+    <img src="https://velog-readme-stats.vercel.app/api?name=imhyeongjong&show_icons=true&theme=graywhite">
 </p>
 <h1 align="center">📚Skills📚</h1>
 <div align=center> 

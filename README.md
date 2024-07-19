@@ -3,7 +3,6 @@
 <h1 align="center">🎈It's me🎈</h1>
 <p align="center"> 
   	<img src="https://github-readme-stats.vercel.app/api?username=imhyeongjong&show_icons=true&theme=graywhite">
-    <img src="https://camo.githubusercontent.com/62e3a96c0e3431cde4ba8d0ebef24259205931e33ad8b299de8ba49d876c8a9e/68747470733a2f2f76656c6f672d726561646d652d73746174732e76657263656c2e6170702f6170693f6e616d653d636173746c6530383038" alt="Velog's GitHub stats" data-canonical-src="https://velog-readme-stats.vercel.app/api?name=imhyeongjong" style="max-width: 100%;">
 </p>
 <h1 align="center">📚Skills📚</h1>
 <div align=center> 

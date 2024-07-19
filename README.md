@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+hyeong-jong's+GitHub!👋)](https://git.io/typing-svg)
 <h1 align="center">🎈It's me🎈</h1>
 <p align="center"> 
-  	<img src="https://github-readme-stats.vercel.app/api?username=imhyeongjong&show_icons=true&theme=skyblue" width="500px" height="500px">
+  	<img src="https://github-readme-stats.vercel.app/api?username=imhyeongjong&show_icons=true&theme=skyblue" width="300px" height="300px">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imhyeongjong&layout=compact&theme=skyblue">
 </p>
 <h1 align="center">📚Skills📚</h1>
